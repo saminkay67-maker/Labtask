@@ -1,0 +1,37 @@
+Line-1:
+int -> Keyword
+main -> Keyword
+( -> Punctuation
+) -> Punctuation
+{ -> Punctuation
+
+Line-2:
+i -> Identifier
+; -> Punctuation
+
+Line-3:
+j -> Identifier
+
+Line-4:
+if -> Keyword
+true -> Keyword
+
+Line-5:
+cout -> Identifier
+<< -> Operator
+" -> Punctuation
+Hello -> Constant
+
+Line-6:
+} -> Punctuation
+
+Line-7:
+= -> Operator
+5 -> Constant
+
+Line-8:
+10 -> Constant
+
+Line-9:
+return -> Keyword
++ -> Operator
